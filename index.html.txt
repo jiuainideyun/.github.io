@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Zhengjia Sports</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #004aad;
+      color: white;
+      padding: 30px 0;
+    }
+    main {
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 2em;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+    footer {
+      background-color: #004aad;
+      color: white;
+      padding: 20px 0;
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Zhengjia Sports Co., Ltd.</h1>
+  </header>
+
+  <main>
+    <h2>德州正佳体育用品有限公司</h2>
+    <p>我们专业生产体操器材和儿童体适能器材，致力于为全球中小学及教育机构提供安全、优质的运动解决方案。</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Zhengjia Sports. All rights reserved.
+  </footer>
+</body>
+</html>
